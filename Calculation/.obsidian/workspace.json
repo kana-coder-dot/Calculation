@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "d91aa4b106b2c280",
+    "type": "split",
+    "children": [
+      {
+        "id": "eedaadac66604c09",
+        "type": "tabs",
+        "dimension": 44.30577223088923,
+        "children": [
+          {
+            "id": "b867bd3b1ba4c34e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010_System/演算.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "演算"
+            }
+          },
+          {
+            "id": "7841f3bddd17991c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "因果収束.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "因果収束"
+            }
+          },
+          {
+            "id": "5b0eed068abf45b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "時間遡行.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "時間遡行"
+            }
+          },
+          {
+            "id": "97b3265883a9f0eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "因果収束.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "因果収束"
+            }
+          }
+        ]
+      },
+      {
+        "id": "241aa9357209dbc5",
+        "type": "tabs",
+        "dimension": 55.69422776911076,
+        "children": [
+          {
+            "id": "bdedb604edf41f5b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7efdc78b89374eb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "50b7e506829d0398",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38fe647957e9f050",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "2ab4502e9b38583c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "5a88f3a2dd69b3f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "27a8fde7aa5b0dbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd8d03d271ef81eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9243aee2c58491a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "位相.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "位相へのバックリンク"
+            }
+          },
+          {
+            "id": "0420729681cf11c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "位相.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "位相からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "2b4fa3e1699c1be0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "78894f9f3895785e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "3bb7e82204f823da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "位相.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "位相のアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false
+    }
+  },
+  "active": "38fe647957e9f050",
+  "lastOpenFiles": [
+    "010_System/基盤厚度階層.md",
+    "020_World/施設.md",
+    "接続点仮説.md",
+    "020_World/ループ.md",
+    "因果収束.md",
+    "時間遡行.md",
+    "均し.md",
+    "010_System/内神.md",
+    "固定化.md",
+    "010_System/存在基盤.md",
+    "020_World/他国.md",
+    "時間.md",
+    "010_System/演算.md",
+    "外縁接続.md",
+    "000_Index/Common.md",
+    "010_System/外縁.md",
+    "010_System/外神.md",
+    "010_System/位相脈観測室.md",
+    "010_System/基盤厚度.md",
+    "010_System/位相脈.md",
+    "010_System/位相勾配.md",
+    "010_System/位相共振.md",
+    "010_System/位相.md",
+    "結界.md",
+    "020_World/夜市.md",
+    "020_World/魔具（優先度固定体）.md",
+    "000_Index",
+    "040_Fragment",
+    "050_History",
+    "030_Protocol",
+    "030_Character",
+    "020_World",
+    "世界構造",
+    "010_System",
+    "演算体系"
+  ]
+}
