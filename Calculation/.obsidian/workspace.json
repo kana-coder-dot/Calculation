@@ -1,20 +1,72 @@
 {
   "main": {
-    "id": "ea6c0fdf8cfad1ff",
+    "id": "d91aa4b106b2c280",
     "type": "split",
     "children": [
       {
-        "id": "530926442f781d2d",
+        "id": "eedaadac66604c09",
         "type": "tabs",
+        "dimension": 44.30577223088923,
         "children": [
           {
-            "id": "af96ad531e2dfda0",
+            "id": "b867bd3b1ba4c34e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "010_System/演算.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "演算"
+            }
+          },
+          {
+            "id": "5da4e8e91f264f79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010_System/世界.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "世界"
+            }
+          },
+          {
+            "id": "7841f3bddd17991c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010_System/履歴再演算.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "履歴再演算"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "241aa9357209dbc5",
+        "type": "tabs",
+        "dimension": 55.69422776911076,
+        "children": [
+          {
+            "id": "bdedb604edf41f5b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
             }
           }
         ]
@@ -23,15 +75,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "efc8e4a743ba3b8c",
+    "id": "7efdc78b89374eb4",
     "type": "split",
     "children": [
       {
-        "id": "8f0a2b76e55a58ae",
+        "id": "50b7e506829d0398",
         "type": "tabs",
         "children": [
           {
-            "id": "3b0b315796c9eb48",
+            "id": "38fe647957e9f050",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +96,7 @@
             }
           },
           {
-            "id": "204879eab5cc69af",
+            "id": "2ab4502e9b38583c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +113,7 @@
             }
           },
           {
-            "id": "3aeb647f250fe0f5",
+            "id": "5a88f3a2dd69b3f1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,19 +129,20 @@
     "width": 300
   },
   "right": {
-    "id": "61f67a66aac3a210",
+    "id": "27a8fde7aa5b0dbe",
     "type": "split",
     "children": [
       {
-        "id": "a9648c89a3f4e46f",
+        "id": "fd8d03d271ef81eb",
         "type": "tabs",
         "children": [
           {
-            "id": "e3d42813cdc2f242",
+            "id": "9243aee2c58491a5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "位相.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +152,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "位相へのバックリンク"
             }
           },
           {
-            "id": "e10824f5e7ca1d84",
+            "id": "0420729681cf11c9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "位相.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "位相からのアウトゴーイングリンク"
             }
           },
           {
-            "id": "a47c5a30f3fbcb93",
+            "id": "2b4fa3e1699c1be0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +185,7 @@
             }
           },
           {
-            "id": "484abac1950f4fa5",
+            "id": "78894f9f3895785e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -145,17 +199,18 @@
             }
           },
           {
-            "id": "066da7a6ca82ec31",
+            "id": "3bb7e82204f823da",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "位相.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "位相のアウトライン"
             }
           }
         ]
@@ -167,7 +222,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
@@ -177,6 +231,43 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "af96ad531e2dfda0",
-  "lastOpenFiles": []
+  "active": "7841f3bddd17991c",
+  "lastOpenFiles": [
+    "010_System/履歴.md",
+    "010_System/優先度.md",
+    "010_System/魔物.md",
+    "010_System/暴走.md",
+    "010_System/内神.md",
+    "010_System/転移.md",
+    "010_System/存在基盤.md",
+    "010_System/増幅傾向.md",
+    "010_System/生体.md",
+    "010_System/世界律.md",
+    "010_System/世界.md",
+    "010_System/条件崩し.md",
+    "010_System/自己増幅ループ.md",
+    "010_System/時間.md",
+    "010_System/高基盤体.md",
+    "010_System/減衰停止.md",
+    "010_System/減衰傾向.md",
+    "010_System/固定化.md",
+    "010_System/位相勾配.md",
+    "010_System/位相共振.md",
+    "010_System/均し.md",
+    "010_System/空間歪み.md",
+    "020_World/術式.md",
+    "010_System/局所共鳴.md",
+    "010_System/基盤厚度.md",
+    "010_System/確率傾斜.md",
+    "010_System/無題のファイル.canvas",
+    "000_Index",
+    "040_Fragment",
+    "050_History",
+    "030_Protocol",
+    "030_Character",
+    "020_World",
+    "世界構造",
+    "010_System",
+    "演算体系"
+  ]
 }
