@@ -231,8 +231,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "7841f3bddd17991c",
+  "active": "bdedb604edf41f5b",
   "lastOpenFiles": [
+    "010_System/履歴再演算.md",
     "010_System/履歴.md",
     "010_System/優先度.md",
     "010_System/魔物.md",
@@ -258,7 +259,6 @@
     "020_World/術式.md",
     "010_System/局所共鳴.md",
     "010_System/基盤厚度.md",
-    "010_System/確率傾斜.md",
     "010_System/無題のファイル.canvas",
     "000_Index",
     "040_Fragment",
