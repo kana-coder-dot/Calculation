@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010_System/履歴再演算.md",
+                "file": "030_Character/イリュストリヤ.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -57,7 +57,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "履歴再演算"
+              "title": "イリュストリヤ"
             }
           }
         ],
@@ -243,11 +243,12 @@
   },
   "active": "7841f3bddd17991c",
   "lastOpenFiles": [
+    "010_System/履歴再演算.md",
     "010_System/世界律.md",
     "010_System/世界履歴.md",
     "010_System/時間.md",
     "010_System/因果収束.md",
-    "030_Character/イリュステリス.md",
+    "030_Character/イリュストリヤ.md",
     "030_Character/シルヴァン.md",
     "010_System/均し.md",
     "010_System/世界.md",
@@ -255,7 +256,6 @@
     "020_World/観測盤.md",
     "010_System/自己増幅ループ.md",
     "010_System/固定化.md",
-    "010_System/履歴再演算.md",
     "010_System/優先度.md",
     "010_System/魔物.md",
     "010_System/暴走.md",
