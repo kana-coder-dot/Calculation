@@ -42,13 +42,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "因果収束.md",
+                "file": "030_Character/イリュステリス.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "因果収束"
+              "title": "イリュステリス"
             }
           }
         ],
@@ -234,8 +234,10 @@
   },
   "active": "7841f3bddd17991c",
   "lastOpenFiles": [
-    "010_System/均し.md",
+    "030_Character/シルヴァン.md",
+    "030_Character/イリュステリス.md",
     "因果収束.md",
+    "010_System/均し.md",
     "010_System/世界.md",
     "010_System/位相勾配.md",
     "020_World/観測盤.md",
@@ -258,8 +260,6 @@
     "010_System/減衰停止.md",
     "010_System/減衰傾向.md",
     "010_System/位相共振.md",
-    "010_System/空間歪み.md",
-    "020_World/術式.md",
     "010_System/無題のファイル.canvas",
     "000_Index",
     "040_Fragment",
