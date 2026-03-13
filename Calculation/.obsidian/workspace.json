@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "020_World/セオレリック神国.md",
+                "file": "020_World/国境防衛戦.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -57,7 +57,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "セオレリック神国"
+              "title": "国境防衛戦"
             }
           },
           {
@@ -257,11 +257,15 @@
   },
   "active": "7841f3bddd17991c",
   "lastOpenFiles": [
-    "020_World/アヴォルダン軍国.md",
-    "020_World/プロメソア王国.md",
-    "020_World/外縁研究.md",
-    "020_World/他国.md",
+    "020_World/村調査派遣.md",
     "020_World/国境防衛戦.md",
+    "020_World/アヴォルダン軍国.md",
+    "020_World/外縁研究.md",
+    "020_World/外縁接続.md",
+    "010_System/時間.md",
+    "020_World/セオレリック神国.md",
+    "020_World/プロメソア王国.md",
+    "020_World/他国.md",
     "010_System/境界.md",
     "010_System/内神.md",
     "010_System/履歴再演算.md",
@@ -279,10 +283,6 @@
     "020_World/第一層.md",
     "020_World/第二層.md",
     "無題のファイル.md",
-    "020_World/エリアの家.md",
-    "030_Character/猫.md",
-    "030_Character/前塔主.md",
-    "030_Character/イリュストリヤ.md",
     "010_System/無題のファイル.canvas",
     "000_Index",
     "040_Fragment",
