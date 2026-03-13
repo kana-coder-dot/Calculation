@@ -42,13 +42,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "020_World/第三層.md",
+                "file": "020_World/魔具（術式固定体）.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "第三層"
+              "title": "魔具（術式固定体）"
             }
           },
           {
@@ -248,10 +257,19 @@
   },
   "active": "7841f3bddd17991c",
   "lastOpenFiles": [
+    "020_World/術式.md",
+    "020_World/術者.md",
+    "020_World/魔具（術式固定体）.md",
+    "020_World/結界核.md",
+    "020_World/北の山イノシシ事件.md",
+    "020_World/副官.md",
+    "020_World/塔主.md",
+    "020_World/施設.md",
     "020_World/魔塔（位相観測機関）.md",
+    "020_World/第三層.md",
     "020_World/第一層.md",
     "020_World/第二層.md",
-    "020_World/術者.md",
+    "無題のファイル.md",
     "020_World/エリアの家.md",
     "030_Character/猫.md",
     "030_Character/前塔主.md",
@@ -263,17 +281,8 @@
     "030_Character/トーマ.md",
     "030_Character/エリア.md",
     "030_Character/シルヴァン.md",
-    "020_World/第三層.md",
-    "020_World/副官.md",
     "020_World/プロメソア王国.md",
     "020_World/L2.md",
-    "020_World/草原.md",
-    "無題のファイル.md",
-    "020_World/アンデフ跡地.md",
-    "020_World/国境都市カデルカ.md",
-    "020_World/首都コンストレット.md",
-    "020_World/セオレリック神国.md",
-    "020_World/結界優先度再宣言.md",
     "010_System/無題のファイル.canvas",
     "000_Index",
     "040_Fragment",
