@@ -42,13 +42,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "030_Character/イリュストリヤ.md",
+                "file": "020_World/カルデン.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "イリュストリヤ"
+              "title": "カルデン"
             }
           }
         ],
@@ -234,8 +234,9 @@
   },
   "active": "7841f3bddd17991c",
   "lastOpenFiles": [
-    "030_Character/シルヴァン.md",
     "030_Character/イリュストリヤ.md",
+    "020_World/カルデン.md",
+    "030_Character/シルヴァン.md",
     "010_System/履歴再演算.md",
     "010_System/世界律.md",
     "010_System/世界履歴.md",
@@ -259,7 +260,6 @@
     "010_System/高基盤体.md",
     "010_System/減衰停止.md",
     "010_System/減衰傾向.md",
-    "010_System/位相共振.md",
     "010_System/無題のファイル.canvas",
     "000_Index",
     "040_Fragment",
