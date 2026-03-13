@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "020_World/魔具（術式固定体）.md",
+                "file": "020_World/セオレリック神国.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -57,7 +57,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "魔具（術式固定体）"
+              "title": "セオレリック神国"
             }
           },
           {
@@ -257,9 +257,18 @@
   },
   "active": "7841f3bddd17991c",
   "lastOpenFiles": [
+    "020_World/アヴォルダン軍国.md",
+    "020_World/プロメソア王国.md",
+    "020_World/外縁研究.md",
+    "020_World/他国.md",
+    "020_World/国境防衛戦.md",
+    "010_System/境界.md",
+    "010_System/内神.md",
+    "010_System/履歴再演算.md",
+    "010_System/外神.md",
+    "020_World/魔具（術式固定体）.md",
     "020_World/術式.md",
     "020_World/術者.md",
-    "020_World/魔具（術式固定体）.md",
     "020_World/結界核.md",
     "020_World/北の山イノシシ事件.md",
     "020_World/副官.md",
@@ -274,15 +283,6 @@
     "030_Character/猫.md",
     "030_Character/前塔主.md",
     "030_Character/イリュストリヤ.md",
-    "030_Character/ロベルタ.md",
-    "030_Character/ディオリ.md",
-    "030_Character/セレン.md",
-    "030_Character/ミロ.md",
-    "030_Character/トーマ.md",
-    "030_Character/エリア.md",
-    "030_Character/シルヴァン.md",
-    "020_World/プロメソア王国.md",
-    "020_World/L2.md",
     "010_System/無題のファイル.canvas",
     "000_Index",
     "040_Fragment",
