@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "020_World/転移.md",
+                "file": "020_World/セオレリック神国.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -57,7 +57,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "転移"
+              "title": "セオレリック神国"
             }
           },
           {
@@ -257,6 +257,9 @@
   },
   "active": "7841f3bddd17991c",
   "lastOpenFiles": [
+    "030_Character/イリュストリヤ.md",
+    "020_World/転移.md",
+    "040_Fragment/Scene_イーリャL4の感覚共有.md",
     "020_World/魔具（術式固定体）.md",
     "020_World/術式.md",
     "020_World/首都コンストレット.md",
@@ -271,7 +274,6 @@
     "010_System/世界.md",
     "010_System/世界律.md",
     "010_System/演算負荷.md",
-    "020_World/転移.md",
     "030_Character/サフ.md",
     "030_Character/ロベルタ.md",
     "030_Character/ディオリ.md",
@@ -281,8 +283,6 @@
     "030_Character/シルヴァン.md",
     "030_Character/セレン.md",
     "030_Character/猫.md",
-    "030_Character/前塔主.md",
-    "030_Character/王.md",
     "010_System/無題のファイル.canvas",
     "000_Index",
     "040_Fragment",
