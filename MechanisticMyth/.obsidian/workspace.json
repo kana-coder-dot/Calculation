@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "030_Character/シルヴァン.md",
+                "file": "接続点仮説.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -57,7 +57,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "シルヴァン"
+              "title": "接続点仮説"
             }
           },
           {
@@ -257,10 +257,16 @@
   },
   "active": "7841f3bddd17991c",
   "lastOpenFiles": [
+    "040‗Timeline/塔主軸.md",
+    "040‗Timeline/塔スケジュール（年間）.md",
+    "040‗Timeline/第一層軸.md",
+    "040‗Timeline/年表.md",
+    "040‗Timeline",
+    "030_Character/シルヴァン.md",
     "020_World/セオレリック神国.md",
     "030_Character/イリュストリヤ.md",
     "020_World/転移.md",
-    "040_Fragment/Scene_イーリャL4の感覚共有.md",
+    "050_Fragment/Scene_イーリャL4の感覚共有.md",
     "020_World/魔具（術式固定体）.md",
     "020_World/術式.md",
     "020_World/首都コンストレット.md",
@@ -278,14 +284,9 @@
     "030_Character/サフ.md",
     "030_Character/ロベルタ.md",
     "030_Character/ディオリ.md",
-    "030_Character/ミロ.md",
-    "030_Character/トーマ.md",
-    "030_Character/エリア.md",
-    "030_Character/シルヴァン.md",
-    "030_Character/セレン.md",
     "010_System/無題のファイル.canvas",
     "000_Index",
-    "040_Fragment",
+    "050_Fragment",
     "050_History",
     "030_Protocol",
     "030_Character",
