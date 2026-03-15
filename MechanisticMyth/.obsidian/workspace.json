@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "020_World/セオレリック神国.md",
+                "file": "030_Character/シルヴァン.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -57,7 +57,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "セオレリック神国"
+              "title": "シルヴァン"
             }
           },
           {
@@ -257,6 +257,7 @@
   },
   "active": "7841f3bddd17991c",
   "lastOpenFiles": [
+    "020_World/セオレリック神国.md",
     "030_Character/イリュストリヤ.md",
     "020_World/転移.md",
     "040_Fragment/Scene_イーリャL4の感覚共有.md",
@@ -282,7 +283,6 @@
     "030_Character/エリア.md",
     "030_Character/シルヴァン.md",
     "030_Character/セレン.md",
-    "030_Character/猫.md",
     "010_System/無題のファイル.canvas",
     "000_Index",
     "040_Fragment",
