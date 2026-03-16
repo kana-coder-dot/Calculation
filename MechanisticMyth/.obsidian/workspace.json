@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040‗Timeline/年表.md",
+                "file": "030_Character/クラウス.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -57,7 +57,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "年表"
+              "title": "クラウス"
             }
           },
           {
@@ -257,11 +257,13 @@
   },
   "active": "7841f3bddd17991c",
   "lastOpenFiles": [
+    "030_Character/トーマ.md",
+    "030_Character/クラウス.md",
+    "040‗Timeline/年表.md",
     "接続点仮説.md",
     "040‗Timeline/塔主軸.md",
     "040‗Timeline/塔スケジュール（年間）.md",
     "040‗Timeline/第一層軸.md",
-    "040‗Timeline/年表.md",
     "040‗Timeline",
     "030_Character/シルヴァン.md",
     "020_World/セオレリック神国.md",
@@ -282,8 +284,6 @@
     "010_System/世界.md",
     "010_System/世界律.md",
     "010_System/演算負荷.md",
-    "030_Character/サフ.md",
-    "030_Character/ロベルタ.md",
     "010_System/無題のファイル.canvas",
     "000_Index",
     "050_Fragment",
