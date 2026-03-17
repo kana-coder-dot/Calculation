@@ -37,41 +37,17 @@
             }
           },
           {
-            "id": "7841f3bddd17991c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "うねり.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "うねり"
-            }
-          },
-          {
             "id": "c5c8035b8447129a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "非到達領域マップ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル"
+              "title": "非到達領域マップ"
             }
           }
         ],
@@ -255,35 +231,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7841f3bddd17991c",
+  "active": "c5c8035b8447129a",
   "lastOpenFiles": [
+    "030_Character/ディオリ.md",
+    "030_Character/エリア.md",
+    "非到達領域マップ.md",
+    "010_System/履歴再演算.md",
+    "010_System/優先度.md",
+    "010_System/未所属域.md",
+    "010_System/魔物.md",
+    "010_System/暴走.md",
     "010_System/内神.md",
-    "うねり.md",
+    "010_System/存在基盤.md",
+    "010_System/増幅傾向.md",
+    "010_System/生体.md",
+    "010_System/世界律.md",
+    "010_System/世界履歴.md",
+    "010_System/世界.md",
+    "010_System/条件崩し.md",
+    "010_System/自己増幅ループ.md",
+    "010_System/時間.md",
+    "010_System/高基盤体.md",
+    "010_System/固定化.md",
+    "010_System/減衰停止.md",
+    "010_System/減衰傾向.md",
+    "010_System/空間歪み.md",
+    "010_System/均し.md",
+    "010_System/局所共鳴.md",
     "010_System/境界帯.md",
-    "未所属域.md",
-    "020_World/位相脈の呼吸可視化.md",
-    "020_World/旧観測塔.md",
-    "旧観測塔.md",
-    "020_World/塔主.md",
-    "020_World/プロメソア王国.md",
-    "020_World/セオレリック神国.md",
-    "000_Index/Common.md",
-    "030_Character/イリュストリヤ.md",
-    "030_Character/トーマ.md",
-    "030_Character/クラウス.md",
-    "030_Character/ミリアム.md",
-    "030_Character/ロベルタ.md",
-    "030_Character/シルヴァン.md",
-    "040‗Timeline/年表.md",
-    "接続点仮説.md",
-    "040‗Timeline/塔主軸.md",
-    "040‗Timeline/塔スケジュール（年間）.md",
-    "040‗Timeline/第一層軸.md",
     "040‗Timeline",
-    "020_World/転移.md",
-    "050_Fragment/Scene_イーリャL4の感覚共有.md",
-    "020_World/魔具（術式固定体）.md",
-    "020_World/術式.md",
     "010_System/無題のファイル.canvas",
     "000_Index",
     "050_Fragment",
