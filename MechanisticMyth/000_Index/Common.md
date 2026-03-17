@@ -6,3 +6,6 @@
 ## 基本
 - 世界は位相で定義され、存在は基盤で固定される
 - 基盤が厚い存在ほど位相へ干渉できる
+
+Machina as Deus
+Mechanistic Myth
