@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "020_World/首都コンストレット.md",
+                "file": "040_Timeline/年表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "首都コンストレット"
+              "title": "年表"
             }
           }
         ],
@@ -231,10 +231,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5c8035b8447129a",
+  "active": "38fe647957e9f050",
   "lastOpenFiles": [
+    "040_Timeline/第一層軸.md",
+    "020_World/首都コンストレット.md",
     "020_World/プロメソア王国.md",
-    "非到達領域マップ.md",
+    "020_World/非到達領域マップ.md",
     "030_Character/ディオリ.md",
     "030_Character/エリア.md",
     "010_System/履歴再演算.md",
@@ -257,9 +259,7 @@
     "010_System/減衰停止.md",
     "010_System/減衰傾向.md",
     "010_System/空間歪み.md",
-    "010_System/均し.md",
-    "010_System/局所共鳴.md",
-    "040‗Timeline",
+    "040_Timeline",
     "010_System/無題のファイル.canvas",
     "000_Index",
     "050_Fragment",
