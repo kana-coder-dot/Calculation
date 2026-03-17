@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040_Timeline/年表.md",
+                "file": "010_System/演算.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "年表"
+              "title": "演算"
             }
           }
         ],
@@ -231,8 +231,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bdedb604edf41f5b",
+  "active": "c5c8035b8447129a",
   "lastOpenFiles": [
+    "030_Character/シルヴァン.md",
     "040_Timeline/年表.md",
     "040_Timeline/第一層軸.md",
     "020_World/首都コンストレット.md",
@@ -258,7 +259,6 @@
     "010_System/高基盤体.md",
     "010_System/固定化.md",
     "010_System/減衰停止.md",
-    "010_System/減衰傾向.md",
     "040_Timeline",
     "010_System/無題のファイル.canvas",
     "000_Index",
