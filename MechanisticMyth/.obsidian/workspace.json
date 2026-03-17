@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "非到達領域マップ.md",
+                "file": "020_World/首都コンストレット.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "非到達領域マップ"
+              "title": "首都コンストレット"
             }
           }
         ],
@@ -233,9 +233,10 @@
   },
   "active": "c5c8035b8447129a",
   "lastOpenFiles": [
+    "020_World/プロメソア王国.md",
+    "非到達領域マップ.md",
     "030_Character/ディオリ.md",
     "030_Character/エリア.md",
-    "非到達領域マップ.md",
     "010_System/履歴再演算.md",
     "010_System/優先度.md",
     "010_System/未所属域.md",
@@ -258,7 +259,6 @@
     "010_System/空間歪み.md",
     "010_System/均し.md",
     "010_System/局所共鳴.md",
-    "010_System/境界帯.md",
     "040‗Timeline",
     "010_System/無題のファイル.canvas",
     "000_Index",
