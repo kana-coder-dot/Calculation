@@ -40,10 +40,14 @@
             "id": "c5c8035b8447129a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "040_Timeline/塔スケジュール（年間）.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "塔スケジュール（年間）"
             }
           }
         ],
@@ -223,16 +227,25 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:新規ベースを作成": false
+      "bases:新規ベースを作成": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c5c8035b8447129a",
   "lastOpenFiles": [
+    "040_Timeline/年表.md",
+    "040_Timeline/第一層軸.md",
+    "040_Timeline/塔スケジュール（年間）.md",
+    "050_Fragment/Scene_夜市巡回.md",
+    "050_Fragment/Scene_塔の遺物を受け取る.md",
+    "050_Fragment/Scene_村調査派遣.md",
+    "050_Fragment/Scene_位相脈測量遠征.md",
+    "050_Fragment/Scene_デカいイノシシ.md",
+    "050_Fragment/Scene_イーリャL4の感覚共有.md",
+    "050_Fragment/Scene_市井に降りる.md",
     "050_Fragment/Scene_軍合同訓練にて塔主バレ.md",
     "050_Fragment/Scene_近所の人に顔を覚えられる.md",
-    "050_Fragment/Scene_位相脈測量遠征.md",
     "050_Fragment/Scene_トーマ入塔後エリアと.md",
-    "050_Fragment/Scene_デカいイノシシ.md",
     "050_Fragment/Scene_ジャムの蓋.md",
     "050_Fragment/Scene_エリアの店に行く.md",
     "050_Fragment/Scene_エリアの死.md",
@@ -242,18 +255,10 @@
     "030_Character/シルヴァン.md",
     "020_World/施設.md",
     "010_System/演算.md",
-    "040_Timeline/年表.md",
-    "040_Timeline/第一層軸.md",
     "020_World/首都コンストレット.md",
     "020_World/プロメソア王国.md",
     "020_World/非到達領域マップ.md",
     "030_Character/ディオリ.md",
-    "030_Character/エリア.md",
-    "010_System/履歴再演算.md",
-    "010_System/優先度.md",
-    "010_System/未所属域.md",
-    "010_System/魔物.md",
-    "010_System/暴走.md",
     "040_Timeline",
     "010_System/無題のファイル.canvas",
     "000_Index",
