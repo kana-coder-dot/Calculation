@@ -227,8 +227,7 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:新規ベースを作成": false,
-      "obsidian-git:Open Git source control": false
+      "bases:新規ベースを作成": false
     }
   },
   "active": "c5c8035b8447129a",
