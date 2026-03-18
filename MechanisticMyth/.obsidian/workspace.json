@@ -40,14 +40,10 @@
             "id": "c5c8035b8447129a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "030_Character/シルヴァン.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "シルヴァン"
+              "title": "新規タブ"
             }
           }
         ],
@@ -227,15 +223,25 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:新規ベースを作成": false,
-      "obsidian-git:Open Git source control": false
+      "bases:新規ベースを作成": false
     }
   },
   "active": "c5c8035b8447129a",
   "lastOpenFiles": [
+    "050_Fragment/Scene_軍合同訓練にて塔主バレ.md",
+    "050_Fragment/Scene_近所の人に顔を覚えられる.md",
+    "050_Fragment/Scene_位相脈測量遠征.md",
+    "050_Fragment/Scene_トーマ入塔後エリアと.md",
+    "050_Fragment/Scene_デカいイノシシ.md",
+    "050_Fragment/Scene_ジャムの蓋.md",
+    "050_Fragment/Scene_エリアの店に行く.md",
+    "050_Fragment/Scene_エリアの死.md",
+    "050_Fragment/Scene_エリアの家に行くようになる.md",
+    "050_Fragment/Scene_エリアの家で雨宿り.md",
+    "020_World/結界.md",
+    "030_Character/シルヴァン.md",
     "020_World/施設.md",
     "010_System/演算.md",
-    "030_Character/シルヴァン.md",
     "040_Timeline/年表.md",
     "040_Timeline/第一層軸.md",
     "020_World/首都コンストレット.md",
@@ -248,17 +254,6 @@
     "010_System/未所属域.md",
     "010_System/魔物.md",
     "010_System/暴走.md",
-    "010_System/内神.md",
-    "010_System/存在基盤.md",
-    "010_System/増幅傾向.md",
-    "010_System/生体.md",
-    "010_System/世界律.md",
-    "010_System/世界履歴.md",
-    "010_System/世界.md",
-    "010_System/条件崩し.md",
-    "010_System/自己増幅ループ.md",
-    "010_System/時間.md",
-    "010_System/高基盤体.md",
     "040_Timeline",
     "010_System/無題のファイル.canvas",
     "000_Index",
