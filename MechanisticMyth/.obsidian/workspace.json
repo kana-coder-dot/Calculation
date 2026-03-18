@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "020_World/施設.md",
+                "file": "030_Character/シルヴァン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "施設"
+              "title": "シルヴァン"
             }
           }
         ],
@@ -233,6 +233,7 @@
   },
   "active": "c5c8035b8447129a",
   "lastOpenFiles": [
+    "020_World/施設.md",
     "010_System/演算.md",
     "030_Character/シルヴァン.md",
     "040_Timeline/年表.md",
@@ -258,7 +259,6 @@
     "010_System/自己増幅ループ.md",
     "010_System/時間.md",
     "010_System/高基盤体.md",
-    "010_System/固定化.md",
     "040_Timeline",
     "010_System/無題のファイル.canvas",
     "000_Index",
