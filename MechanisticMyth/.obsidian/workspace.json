@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scene_シルヴァン、位相神との邂逅.md",
+                "file": "050_Fragment/Scene_シルヴァン、位相神との邂逅.md",
                 "mode": "source",
                 "source": false
               },
@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "050_Fragment/Scene_クラウスとトーマ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル"
+              "title": "Scene_クラウスとトーマ"
             }
           },
           {
@@ -70,16 +70,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "無題のファイル 1.md",
+                "file": "050_Fragment/Scene_村調査派遣.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル 1"
+              "title": "Scene_村調査派遣"
+            }
+          },
+          {
+            "id": "538939a67b4181bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "050_Fragment/Scene_軍との合同訓練.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scene_軍との合同訓練"
+            }
+          },
+          {
+            "id": "1f384c5844661ad9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "050_Fragment/Scene_クラウスとトーマ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scene_クラウスとトーマ"
+            }
+          },
+          {
+            "id": "c04ba5a483b2469c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "020_World/第一層.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第一層"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       },
       {
         "id": "241aa9357209dbc5",
@@ -259,34 +301,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21d94988c979dfac",
+  "active": "c04ba5a483b2469c",
   "lastOpenFiles": [
-    "無題のファイル.md",
-    "無題のファイル 1.md",
-    "Scene_シルヴァン、位相神との邂逅.md",
-    "040_Timeline/シナリオフロー.md",
+    "030_Character/猫.md",
+    "030_Character/エリア.md",
+    "050_Fragment/Scene_鉱脈洞窟発見.md",
+    "050_Fragment/Scene_クラウスとトーマ.md",
+    "050_Fragment/Scene_村調査派遣.md",
+    "020_World/村調査派遣.md",
+    "050_Fragment/Scene_塔の遺物を受け取る.md",
+    "050_Fragment/Scene_第一層トーマ班.md",
+    "050_Fragment/Scene_神国訪問.md",
+    "050_Fragment/Scene_神国の聖女が初来訪.md",
+    "050_Fragment/Scene_軍との合同訓練.md",
+    "050_Fragment/Scene_位相脈測量遠征.md",
+    "050_Fragment/Scene_デカいイノシシ.md",
     "050_Fragment/Scene_ディオリ位相神とコミュニケーション成立.md",
+    "050_Fragment/Scene_シルヴァン、位相神との邂逅.md",
+    "050_Fragment/Scene_クマ事件.md",
+    "040_Timeline/シナリオフロー.md",
     "010_System/世界.md",
     "010_System/演算.md",
-    "050_Fragment/Scene_神国訪問.md",
     "050_Fragment/Scene_イーリャL4の感覚共有.md",
     "020_World/光る犬事件.md",
     "020_World/後期軍合同訓練.md",
-    "050_Fragment/Scene_クマ事件.md",
-    "050_Fragment/Scene_神国の聖女が初来訪.md",
     "020_World/結界優先度再宣言.md",
     "020_World/北の山イノシシ事件.md",
     "020_World/霧固定化事件.md",
     "020_World/位相脈測量遠征.md",
-    "020_World/結界維持錨.md",
-    "020_World/結界.md",
-    "020_World/減衰域.md",
-    "010_System/位相神.md",
-    "010_System/高基盤体.md",
-    "000_Index/Common.md",
-    "000_Index/Layer.md",
-    "020_World/非到達領域マップ.md",
-    "030_Character/ディオリ.md",
     "040_Timeline",
     "010_System/無題のファイル.canvas",
     "000_Index",
