@@ -23,105 +23,21 @@
             }
           },
           {
-            "id": "5da4e8e91f264f79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "050_Fragment/Scene_ディオリ位相神とコミュニケーション成立.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scene_ディオリ位相神とコミュニケーション成立"
-            }
-          },
-          {
-            "id": "c5c8035b8447129a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "050_Fragment/Scene_シルヴァン、位相神との邂逅.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scene_シルヴァン、位相神との邂逅"
-            }
-          },
-          {
-            "id": "166dc562eeed07a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "050_Fragment/Scene_クラウスとトーマ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scene_クラウスとトーマ"
-            }
-          },
-          {
-            "id": "21d94988c979dfac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "050_Fragment/Scene_村調査派遣.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scene_村調査派遣"
-            }
-          },
-          {
-            "id": "538939a67b4181bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "050_Fragment/Scene_軍との合同訓練.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scene_軍との合同訓練"
-            }
-          },
-          {
-            "id": "1f384c5844661ad9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "050_Fragment/Scene_クラウスとトーマ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scene_クラウスとトーマ"
-            }
-          },
-          {
             "id": "c04ba5a483b2469c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "020_World/第一層.md",
+                "file": "Scene_光る犬事件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第一層"
+              "title": "Scene_光る犬事件"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       },
       {
         "id": "241aa9357209dbc5",
@@ -303,32 +219,32 @@
   },
   "active": "c04ba5a483b2469c",
   "lastOpenFiles": [
-    "030_Character/猫.md",
-    "030_Character/エリア.md",
-    "050_Fragment/Scene_鉱脈洞窟発見.md",
-    "050_Fragment/Scene_クラウスとトーマ.md",
-    "050_Fragment/Scene_村調査派遣.md",
-    "020_World/村調査派遣.md",
-    "050_Fragment/Scene_塔の遺物を受け取る.md",
-    "050_Fragment/Scene_第一層トーマ班.md",
-    "050_Fragment/Scene_神国訪問.md",
-    "050_Fragment/Scene_神国の聖女が初来訪.md",
-    "050_Fragment/Scene_軍との合同訓練.md",
-    "050_Fragment/Scene_位相脈測量遠征.md",
-    "050_Fragment/Scene_デカいイノシシ.md",
-    "050_Fragment/Scene_ディオリ位相神とコミュニケーション成立.md",
-    "050_Fragment/Scene_シルヴァン、位相神との邂逅.md",
-    "050_Fragment/Scene_クマ事件.md",
-    "040_Timeline/シナリオフロー.md",
-    "010_System/世界.md",
-    "010_System/演算.md",
-    "050_Fragment/Scene_イーリャL4の感覚共有.md",
     "020_World/光る犬事件.md",
-    "020_World/後期軍合同訓練.md",
-    "020_World/結界優先度再宣言.md",
-    "020_World/北の山イノシシ事件.md",
-    "020_World/霧固定化事件.md",
+    "Scene_光る犬事件.md",
+    "040_Timeline/シナリオフロー.md",
+    "020_World/信号具.md",
+    "050_Fragment/Scene_ミロ入塔.md",
+    "050_Fragment/Scene_イノシシ観測.md",
+    "050_Fragment/Scene_クマ事件.md",
+    "イノシシ観測.md",
+    "040_Timeline/年表.md",
+    "040_Timeline/塔スケジュール（年間）.md",
+    "020_World/夜市.md",
+    "010_System/演算.md",
+    "020_World/均衡維持計画の策定.md",
+    "020_World/外縁接続.md",
+    "020_World/外縁研究.md",
+    "020_World/王宮儀礼.md",
     "020_World/位相脈測量遠征.md",
+    "020_World/位相脈観測室.md",
+    "020_World/位相脈の呼吸可視化.md",
+    "020_World/減衰域.md",
+    "050_Fragment/Scene_デカいイノシシ.md",
+    "020_World/北の山イノシシ事件.md",
+    "020_World/非到達領域マップ.md",
+    "030_Character/トーマ.md",
+    "030_Character/シルヴァン.md",
+    "030_Character/セレン.md",
     "040_Timeline",
     "010_System/無題のファイル.canvas",
     "000_Index",
