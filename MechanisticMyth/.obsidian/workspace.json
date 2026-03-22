@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040_Timeline/第一層軸.md",
+                "file": "020_World/非到達領域マップ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第一層軸"
+              "title": "非到達領域マップ"
             }
           }
         ],
@@ -233,12 +233,12 @@
   },
   "active": "c5c8035b8447129a",
   "lastOpenFiles": [
+    "040_Timeline/第一層軸.md",
     "010_System/位相神.md",
     "030_Character/ディオリ.md",
     "050_Fragment/Scene_イーリャL4の感覚共有.md",
     "040_Timeline/塔スケジュール（年間）.md",
     "040_Timeline/年表.md",
-    "040_Timeline/第一層軸.md",
     "050_Fragment/Scene_夜市巡回.md",
     "050_Fragment/Scene_塔の遺物を受け取る.md",
     "050_Fragment/Scene_村調査派遣.md",
