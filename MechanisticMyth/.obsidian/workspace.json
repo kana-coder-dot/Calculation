@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scene_塔主街中で役職名呼べない問題.md",
+                "file": "050_Fragment/Scene_冬夕方の第一層.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scene_塔主街中で役職名呼べない問題"
+              "title": "Scene_冬夕方の第一層"
             }
           }
         ],
@@ -219,11 +219,15 @@
   },
   "active": "c04ba5a483b2469c",
   "lastOpenFiles": [
-    "050_Fragment/Scene_クラウスとトーマが街中でシルヴァンと会う.md",
-    "Scene_塔主街中で役職名呼べない問題.md",
-    "050_Fragment/Scene_シルヴァン夏の外套問題.md",
+    "050_Fragment/Scene_冬朝の第一層.md",
+    "050_Fragment/Scene_冬夕方の第一層.md",
     "050_Fragment/Scene_シルヴァン外套の裾問題.md",
     "050_Fragment/Scene_シルヴァンとトーマ初接触.md",
+    "050_Fragment/Scene_クラウスとトーマが街中でシルヴァンと会う.md",
+    "050_Fragment/Scene_クラウスとトーマ.md",
+    "050_Fragment/Scene_塔主街中で役職名呼べない問題.md",
+    "050_Fragment/Scene_塔主半匿名問題.md",
+    "050_Fragment/Scene_シルヴァン夏の外套問題.md",
     "030_Character/クラウス.md",
     "030_Character/エリア.md",
     "030_Character/イリュストリヤ.md",
@@ -241,10 +245,6 @@
     "020_World/第一層.md",
     "020_World/減衰帯.md",
     "040_Timeline/シナリオフロー.md",
-    "010_System/条件崩し.md",
-    "010_System/位相勾配.md",
-    "030_Character/ミロ.md",
-    "030_Character/セレン.md",
     "040_Timeline",
     "010_System/無題のファイル.canvas",
     "000_Index",
