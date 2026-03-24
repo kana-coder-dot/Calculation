@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scene_光る犬事件.md",
+                "file": "040_Timeline/シナリオフロー.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scene_光る犬事件"
+              "title": "シナリオフロー"
             }
           }
         ],
@@ -219,6 +219,7 @@
   },
   "active": "c04ba5a483b2469c",
   "lastOpenFiles": [
+    "040_Timeline/塔スケジュール（年間）.md",
     "020_World/光る犬事件.md",
     "Scene_光る犬事件.md",
     "040_Timeline/シナリオフロー.md",
@@ -228,7 +229,6 @@
     "050_Fragment/Scene_クマ事件.md",
     "イノシシ観測.md",
     "040_Timeline/年表.md",
-    "040_Timeline/塔スケジュール（年間）.md",
     "020_World/夜市.md",
     "010_System/演算.md",
     "020_World/均衡維持計画の策定.md",
