@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040_Timeline/シナリオフロー.md",
+                "file": "030_Character/対外管理官.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "シナリオフロー"
+              "title": "対外管理官"
             }
           }
         ]
@@ -204,8 +204,13 @@
   },
   "active": "c04ba5a483b2469c",
   "lastOpenFiles": [
-    "050_Fragment/Scene_第一層トーマ班.md",
+    "030_Character/ミリアム.md",
+    "030_Character/エーヴァルト.md",
+    "030_Character/エリア.md",
+    "030_Character/クラウス.md",
+    "030_Character/カルラ.md",
     "040_Timeline/シナリオフロー.md",
+    "050_Fragment/Scene_第一層トーマ班.md",
     "050_Fragment/Scene_シルヴァン外套の裾問題.md",
     "050_Fragment/Scene_クマ事件.md",
     "050_Fragment/Scene_クラウスとトーマ.md",
@@ -223,13 +228,8 @@
     "030_Character/ロベルタ.md",
     "030_Character/ディオリ.md",
     "030_Character/セレン.md",
-    "030_Character/ミリアム.md",
-    "030_Character/クラウス.md",
     "030_Character/ミロ.md",
     "030_Character/トーマ.md",
-    "030_Character/シルヴァン.md",
-    "030_Character/アレクセイ.md",
-    "020_World/術者.md",
     "040_Timeline",
     "010_System/無題のファイル.canvas",
     "000_Index",
