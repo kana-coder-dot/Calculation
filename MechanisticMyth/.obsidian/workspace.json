@@ -9,231 +9,49 @@
         "dimension": 44.3159922928709,
         "children": [
           {
-            "id": "c04ba5a483b2469c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "050_Fragment/Scene_位相神06.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scene_位相神06"
-            }
-          },
-          {
-            "id": "bae5d2c52d14d254",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "050_Fragment/Scene_位相神06：トーマとクラウス.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scene_位相神06：トーマとクラウス"
-            }
-          },
-          {
-            "id": "994e63c8c26dc1d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "050_Fragment/Scene_位相神06.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scene_位相神06"
-            }
-          },
-          {
-            "id": "e6d3fb71ab86efe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "050_Fragment/Scene_位相神07.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scene_位相神07"
-            }
-          },
-          {
-            "id": "7ce998a529e67de7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "050_Fragment/Scene_位相神：言語差01.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scene_位相神：言語差01"
-            }
-          },
-          {
-            "id": "849000f6de146021",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "050_Fragment/Scene_位相神：言語差02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scene_位相神：言語差02"
-            }
-          },
-          {
-            "id": "eced5b551e83175b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "050_Fragment/Scene_位相神：感情語彙01.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scene_位相神：感情語彙01"
-            }
-          },
-          {
-            "id": "eca42cd98ca5ac5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "050_Fragment/Scene_位相神：言語差03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scene_位相神：言語差03"
-            }
-          },
-          {
-            "id": "2610c16072a36ca5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "無題のファイル 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "無題のファイル 4"
-            }
-          },
-          {
-            "id": "6041486c1ce4a608",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "050_Fragment/Scene_位相神：寿命の話01.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scene_位相神：寿命の話01"
-            }
-          },
-          {
-            "id": "441d0b9abc3f3cf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "050_Fragment/Scene_位相神06：副官.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scene_位相神06：副官"
-            }
-          },
-          {
-            "id": "c85049f834cb1942",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "050_Fragment/Scene_位相神06.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scene_位相神06"
-            }
-          },
-          {
-            "id": "8062a29ddd9ee3ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "050_Fragment/Scene_位相神：青色.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scene_位相神：青色"
-            }
-          },
-          {
-            "id": "0c3adc1df1f5d6de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "050_Fragment/Scene_位相神：冗談.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scene_位相神：冗談"
-            }
-          },
-          {
-            "id": "ee63401c4ba8184b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "050_Fragment/Scene_位相神：幽霊.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scene_位相神：幽霊"
-            }
-          },
-          {
             "id": "d6fd34f7243496ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "無題のファイル 4.md",
+                "file": "050_Fragment/Scene_位相神：会えなくなったら.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル 4"
+              "title": "Scene_位相神：会えなくなったら"
+            }
+          },
+          {
+            "id": "a81b6dd66a35cc85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "050_Fragment/Scene_シルヴァン、位相神との遭遇.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scene_シルヴァン、位相神との遭遇"
+            }
+          },
+          {
+            "id": "d774196aaeb7dabe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "無題のファイル"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 2
       },
       {
         "id": "241aa9357209dbc5",
@@ -413,34 +231,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6fd34f7243496ba",
+  "active": "d774196aaeb7dabe",
   "lastOpenFiles": [
-    "050_Fragment/Scene_位相神：民俗学.md",
-    "050_Fragment/Scene_位相神：感情語彙01.md",
-    "050_Fragment/Scene_位相神：冗談.md",
+    "050_Fragment/Scene_シルヴァン、位相神との遭遇.md",
+    "無題のファイル.md",
+    "050_Fragment/Scene_ディオリ位相神とコミュニケーション.md",
+    "050_Fragment/Scene_位相神：会えなくなったら.md",
+    "050_Fragment/Scene_位相神01.md",
     "050_Fragment/Scene_位相神：幽霊.md",
-    "無題のファイル 4.md",
+    "050_Fragment/Scene_位相神：冗談.md",
     "050_Fragment/Scene_位相神：青色.md",
-    "050_Fragment/Scene_位相神：感情語彙02.md",
-    "050_Fragment/Scene_位相神：言語差03.md",
-    "イノシシ観測.md",
-    "050_Fragment/Scene_位相神：言語差02.md",
-    "050_Fragment/Scene_位相神：言語差01.md",
     "050_Fragment/Scene_位相神06.md",
     "050_Fragment/Scene_位相神06：副官.md",
-    "050_Fragment/Scene_位相神：寿命の話02.md",
     "050_Fragment/Scene_位相神：寿命の話01.md",
+    "050_Fragment/Scene_位相神：言語差03.md",
+    "050_Fragment/Scene_位相神：感情語彙01.md",
+    "050_Fragment/Scene_位相神：言語差02.md",
+    "050_Fragment/Scene_位相神：言語差01.md",
     "050_Fragment/Scene_位相神07.md",
     "050_Fragment/Scene_位相神06：トーマとクラウス.md",
+    "050_Fragment/Scene_位相神：民俗学.md",
+    "050_Fragment/Scene_位相神：感情語彙02.md",
+    "イノシシ観測.md",
+    "050_Fragment/Scene_位相神：寿命の話02.md",
     "030_Character/シルヴァン.md",
     "030_Character/軍務連絡官.md",
     "030_Character/対外管理官.md",
     "030_Character/エーヴァルト.md",
     "030_Character/カルラ.md",
-    "030_Character/エリア.md",
-    "030_Character/クラウス.md",
-    "030_Character/文官.md",
-    "020_World/結界優先度再宣言.md",
     "040_Timeline",
     "010_System/無題のファイル.canvas",
     "000_Index",
