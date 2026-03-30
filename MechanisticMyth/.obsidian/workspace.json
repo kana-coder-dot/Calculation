@@ -84,7 +84,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scene_位相神02.md",
+                "file": "060_Fragment/Scene_位相神02.md",
                 "mode": "source",
                 "source": false
               },
@@ -98,12 +98,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "050_Timeline/位相神との関係推移.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル"
+              "title": "位相神との関係推移"
             }
           }
         ],
@@ -287,10 +287,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bdedb604edf41f5b",
+  "active": "a24fc1127ac7cb45",
   "lastOpenFiles": [
+    "060_Fragment/Scene_位相神04.md",
+    "060_Fragment/Scene_位相神02.md",
+    "060_Fragment/Scene_位相神01.md",
     "無題のファイル.md",
-    "Scene_位相神02.md",
     "050_Timeline/位相神との関係推移.md",
     "050_Timeline/シナリオフロー.md",
     "060_Fragment/Scene_トーマ班・クラウス：夜市巡回.md",
@@ -313,8 +315,6 @@
     "060_Fragment/Scene_冬夕方の第一層.md",
     "060_Fragment/Scene_塔の遺物を受け取る.md",
     "060_Fragment/Scene_位相脈測量遠征.md",
-    "060_Fragment/Scene_境界帯マップ作成.md",
-    "060_Fragment/Scene_ディオリ：位相神初接触.md",
     "030_Protocol",
     "050_Timeline",
     "010_System/無題のファイル.canvas",
