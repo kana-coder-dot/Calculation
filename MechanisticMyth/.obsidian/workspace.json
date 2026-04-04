@@ -70,12 +70,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "050_Timeline/位相神との関係推移.md",
+                "file": "無題のファイル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "位相神との関係推移"
+              "title": "無題のファイル"
             }
           }
         ],
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "位相.md",
+                "file": "無題のファイル.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "位相へのバックリンク"
+              "title": "無題のファイルへのバックリンク"
             }
           },
           {
@@ -261,7 +261,9 @@
   },
   "active": "d1611c70e15f685d",
   "lastOpenFiles": [
+    "060_Fragment/Scene_位相神：言語差01.md",
     "無題のファイル.md",
+    "050_Timeline/位相神との関係推移.md",
     "030_Protocol/位相観測粒度.md",
     "060_Fragment/Scene_位相神：新しい語彙03建前.md",
     "060_Fragment/Scene_位相神05.md",
@@ -280,13 +282,11 @@
     "060_Fragment/Scene_位相神：会えなくなったら.md",
     "060_Fragment/Scene_位相神：夏の外套.md",
     "060_Fragment/Scene_位相神：言語差02.md",
-    "060_Fragment/Scene_位相神：言語差01.md",
     "060_Fragment/Scene_カルラ・トーマ：雑ね.md",
     "060_Fragment/Scene_イノシシ観測.md",
     "境界帯でしか起こらないこと.md",
     "シルヴァンから位相神が見える理由.md",
     "010_System/位相神.md",
-    "010_System/位相勾配.md",
     "030_Protocol",
     "050_Timeline",
     "010_System/無題のファイル.canvas",
