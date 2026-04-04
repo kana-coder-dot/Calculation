@@ -14,12 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "050_Timeline/年表.md",
+                "file": "010_System/条件崩し.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "年表"
+              "title": "条件崩し"
+            }
+          },
+          {
+            "id": "b6012a2ed4b28083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010_System/広域条件再配置.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "広域条件再配置"
             }
           },
           {
@@ -28,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "成立条件の束.md",
+                "file": "010_System/位相共振.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "成立条件の束"
+              "title": "位相共振"
             }
           },
           {
@@ -42,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "成立域.md",
+                "file": "参照痕.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "成立域"
+              "title": "参照痕"
             }
           },
           {
@@ -56,16 +70,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "030_Protocol/位相観測粒度.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル"
+              "title": "位相観測粒度"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "241aa9357209dbc5",
@@ -245,34 +259,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d319830256875d3d",
+  "active": "d72f058177fa30fb",
   "lastOpenFiles": [
-    "成立域.md",
-    "成立条件の束.md",
-    "010_System/位相脈.md",
-    "010_System/位相.md",
-    "010_System/世界律.md",
-    "無題のファイル.md",
-    "010_System/外神.md",
-    "010_System/履歴再演算.md",
-    "施設運用.md",
-    "020_World/施設.md",
-    "050_Timeline/シナリオフロー.md",
-    "050_Timeline/塔スケジュール（年間）.md",
-    "050_Timeline/年表.md",
-    "020_World/魔塔（位相観測機関）.md",
     "シルヴァンから位相神が見える理由.md",
-    "040_Character/ディオリ.md",
+    "参照痕.md",
+    "010_System/自己増幅ループ.md",
+    "010_System/時間.md",
+    "010_System/高基盤体.md",
+    "010_System/広域条件再配置.md",
+    "010_System/固定化.md",
+    "010_System/減衰停止.md",
+    "010_System/減衰傾向.md",
+    "010_System/空間歪み.md",
+    "010_System/境界帯.md",
     "010_System/境界感覚.md",
-    "020_World/首都コンストレット.md",
-    "020_World/結界.md",
-    "020_World/結界核管理棟.md",
-    "020_World/術者居住区.md",
-    "010_System/世界システム層.md",
-    "040_Character/クァンツェ.md",
-    "020_World/L4.md",
-    "020_World/L階層.md",
+    "010_System/基盤厚度.md",
+    "010_System/干渉能力.md",
+    "010_System/確率傾斜.md",
+    "010_System/増幅傾向.md",
+    "010_System/生体.md",
+    "010_System/演算.md",
+    "010_System/因果収束.md",
+    "010_System/位相脈.md",
+    "010_System/位相神.md",
+    "010_System/位相勾配.md",
     "010_System/位相共振.md",
+    "010_System/位相干渉.md",
+    "010_System/位相.md",
+    "030_Protocol/位相観測粒度.md",
     "030_Protocol",
     "050_Timeline",
     "010_System/無題のファイル.canvas",
