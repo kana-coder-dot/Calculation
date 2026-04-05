@@ -70,12 +70,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "060_Fragment/Scene_位相神：新しい語彙05加減.md",
+                "file": "000_Index/Common.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scene_位相神：新しい語彙05加減"
+              "title": "Common"
             }
           },
           {
@@ -275,6 +275,7 @@
   },
   "active": "7154f048bce38494",
   "lastOpenFiles": [
+    "060_Fragment/Scene_位相神：新しい語彙05加減.md",
     "050_Timeline/位相神時系列.md",
     "050_Timeline/位相神との関係推移.md",
     "030_Protocol/施設運用.md",
@@ -300,7 +301,6 @@
     "010_System/暴走.md",
     "010_System/内神.md",
     "010_System/存在基盤.md",
-    "010_System/増幅傾向.md",
     "030_Protocol",
     "050_Timeline",
     "010_System/無題のファイル.canvas",
