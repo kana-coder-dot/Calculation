@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "241aa9357209dbc5",
@@ -273,8 +273,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7154f048bce38494",
+  "active": "cc244684ec004580",
   "lastOpenFiles": [
+    "060_Fragment/Scene_位相神：言語差03.md",
+    "040_Character/クァンツェ.md",
     "050_Timeline/位相神時系列.md",
     "050_Timeline/位相神との関係推移.md",
     "000_Index/Common.md",
@@ -283,7 +285,6 @@
     "030_Protocol/前期軍合同訓練.md",
     "030_Protocol/境界帯人型現象.md",
     "030_Protocol/境界帯人型現象.md",
-    "060_Fragment/Scene_位相神：言語差03.md",
     "060_Fragment/Scene_位相神：言語差02.md",
     "060_Fragment/Scene_位相神04.md",
     "060_Fragment/Scene_位相神03.md",
@@ -300,7 +301,6 @@
     "010_System/未所属域.md",
     "010_System/魔物.md",
     "010_System/暴走.md",
-    "010_System/内神.md",
     "030_Protocol",
     "050_Timeline",
     "010_System/無題のファイル.canvas",
