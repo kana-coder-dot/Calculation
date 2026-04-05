@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010_System/条件崩し.md",
+                "file": "シルヴァンから位相神が見える理由.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "条件崩し"
+              "title": "シルヴァンから位相神が見える理由"
             }
           },
           {
@@ -92,8 +92,7 @@
               "title": "Scene_位相神：新しい語彙00建前"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "241aa9357209dbc5",
@@ -273,13 +272,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc244684ec004580",
+  "active": "78231ad18a00ff19",
   "lastOpenFiles": [
+    "000_Index/Common.md",
+    "010_System/条件崩し.md",
+    "010_System/広域条件再配置.md",
+    "010_System/位相共振.md",
+    "060_Fragment/Scene_位相神：新しい語彙00建前.md",
     "060_Fragment/Scene_位相神：言語差03.md",
     "040_Character/クァンツェ.md",
     "050_Timeline/位相神時系列.md",
     "050_Timeline/位相神との関係推移.md",
-    "000_Index/Common.md",
     "060_Fragment/Scene_位相神：新しい語彙05加減.md",
     "030_Protocol/施設運用.md",
     "030_Protocol/前期軍合同訓練.md",
@@ -297,10 +300,6 @@
     "020_World/L階層.md",
     "020_World/L4.md",
     "010_System/履歴再演算.md",
-    "010_System/優先度.md",
-    "010_System/未所属域.md",
-    "010_System/魔物.md",
-    "010_System/暴走.md",
     "030_Protocol",
     "050_Timeline",
     "010_System/無題のファイル.canvas",
