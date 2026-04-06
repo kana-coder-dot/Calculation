@@ -56,12 +56,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040_Character/クァンツェ.md",
+                "file": "050_Timeline/位相神時系列.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "クァンツェ"
+              "title": "位相神時系列"
             }
           },
           {
@@ -261,6 +271,9 @@
   },
   "active": "7154f048bce38494",
   "lastOpenFiles": [
+    "050_Timeline/シナリオフロー.md",
+    "030_Protocol/結界優先度再宣言.md",
+    "040_Character/クァンツェ.md",
     "位相神とシルヴァンの関係.md",
     "Scene_位相神04.md",
     "060_Fragment/Scene_位相神：新しい語彙02-1遠慮.md",
@@ -274,7 +287,6 @@
     "010_System/広域条件再配置.md",
     "010_System/位相共振.md",
     "060_Fragment/Scene_位相神：言語差03.md",
-    "040_Character/クァンツェ.md",
     "050_Timeline/位相神時系列.md",
     "050_Timeline/位相神との関係推移.md",
     "060_Fragment/Scene_位相神：新しい語彙05加減.md",
@@ -285,8 +297,6 @@
     "060_Fragment/Scene_位相神：言語差02.md",
     "030_Protocol/イノシシ観測.md",
     "境界帯でしか起こらないこと.md",
-    "030_Protocol/霧固定化事件.md",
-    "030_Protocol/非到達領域マップ.md",
     "030_Protocol",
     "050_Timeline",
     "010_System/無題のファイル.canvas",
