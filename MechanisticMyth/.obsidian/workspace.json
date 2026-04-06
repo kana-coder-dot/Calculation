@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "050_Timeline/位相神時系列.md",
+                "file": "位相神とシルヴァンの関係.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,7 +71,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "位相神時系列"
+              "title": "位相神とシルヴァンの関係"
             }
           },
           {
@@ -271,6 +271,7 @@
   },
   "active": "7154f048bce38494",
   "lastOpenFiles": [
+    "050_Timeline/位相神時系列.md",
     "050_Timeline/シナリオフロー.md",
     "030_Protocol/結界優先度再宣言.md",
     "040_Character/クァンツェ.md",
@@ -287,7 +288,6 @@
     "010_System/広域条件再配置.md",
     "010_System/位相共振.md",
     "060_Fragment/Scene_位相神：言語差03.md",
-    "050_Timeline/位相神時系列.md",
     "050_Timeline/位相神との関係推移.md",
     "060_Fragment/Scene_位相神：新しい語彙05加減.md",
     "030_Protocol/施設運用.md",
