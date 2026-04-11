@@ -56,22 +56,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "060_Fragment/Scene_位相神01.md",
+                "file": "060_Fragment/Scene_位相神03.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Scene_位相神01"
+              "title": "Scene_位相神03"
             }
           },
           {
@@ -271,20 +262,21 @@
   },
   "active": "7154f048bce38494",
   "lastOpenFiles": [
+    "050_Timeline/位相神時系列.md",
+    "060_Fragment/Scene_位相神03.md",
+    "位相神とシルヴァンの関係.md",
+    "060_Fragment/Scene_位相神04.md",
+    "シルヴァンから位相神が見える理由.md",
+    "060_Fragment/Scene_位相神02.md",
+    "060_Fragment/Scene_位相神01.md",
     "060_Fragment/Scene_位相神：新しい語彙00建前.md",
     "060_Fragment/Scene_位相神：夏の外套.md",
     "060_Fragment/Scene_位相神：会えなくなったら.md",
-    "位相神とシルヴァンの関係.md",
-    "050_Timeline/位相神時系列.md",
     "050_Timeline/シナリオフロー.md",
     "030_Protocol/結界優先度再宣言.md",
     "040_Character/クァンツェ.md",
-    "Scene_位相神04.md",
     "060_Fragment/Scene_位相神：新しい語彙02-1遠慮.md",
-    "060_Fragment/Scene_位相神03.md",
-    "060_Fragment/Scene_位相神04.md",
     "060_Fragment/Scene_位相神：新しい語彙00心配.md",
-    "シルヴァンから位相神が見える理由.md",
     "000_Index/Common.md",
     "010_System/条件崩し.md",
     "010_System/広域条件再配置.md",
@@ -295,8 +287,6 @@
     "030_Protocol/施設運用.md",
     "030_Protocol/前期軍合同訓練.md",
     "030_Protocol/境界帯人型現象.md",
-    "030_Protocol/境界帯人型現象.md",
-    "060_Fragment/Scene_位相神：言語差02.md",
     "030_Protocol",
     "050_Timeline",
     "010_System/無題のファイル.canvas",
