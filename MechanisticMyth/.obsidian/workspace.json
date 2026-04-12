@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "060_Fragment/Scene_位相神06.md",
+                "file": "060_Fragment/Scene_位相神03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scene_位相神06"
+              "title": "Scene_位相神03"
             }
           },
           {
@@ -218,6 +218,7 @@
   },
   "active": "353fdd3c1596cc27",
   "lastOpenFiles": [
+    "060_Fragment/Scene_位相神06.md",
     "060_Fragment/Scene_位相神05.md",
     "060_Fragment/Scene_位相神01.md",
     "060_Fragment/Scene_位相神：夏の外套.md",
@@ -243,7 +244,6 @@
     "020_World/施設.md",
     "000_Index/Common.md",
     "050_Timeline/シナリオフロー.md",
-    "040_Character/王.md",
     "030_Protocol",
     "050_Timeline",
     "010_System/無題のファイル.canvas",
