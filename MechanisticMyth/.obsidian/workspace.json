@@ -9,105 +9,6 @@
         "dimension": 44.3159922928709,
         "children": [
           {
-            "id": "cc3be470b9908193",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "位相神とシルヴァンの関係.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "位相神とシルヴァンの関係"
-            }
-          },
-          {
-            "id": "b6012a2ed4b28083",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "010_System/広域条件再配置.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "広域条件再配置"
-            }
-          },
-          {
-            "id": "d319830256875d3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "010_System/位相共振.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "位相共振"
-            }
-          },
-          {
-            "id": "7154f048bce38494",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "060_Fragment/街中で「塔主」と呼べない問題01.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "街中で「塔主」と呼べない問題01"
-            }
-          },
-          {
-            "id": "22b7a0c2f9833e40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "060_Fragment/クラウスとトーマの出会い.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "クラウスとトーマの出会い"
-            }
-          },
-          {
-            "id": "8ce81e46d2ffaa2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "060_Fragment/第一層に差し入れ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第一層に差し入れ"
-            }
-          },
-          {
-            "id": "93bd6f04273d45da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "060_Fragment/クラウスと副官.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "クラウスと副官"
-            }
-          },
-          {
             "id": "353fdd3c1596cc27",
             "type": "leaf",
             "state": {
@@ -135,8 +36,7 @@
               "title": "光る犬事件"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       },
       {
         "id": "241aa9357209dbc5",
@@ -316,8 +216,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a14f0eed6628419",
+  "active": "353fdd3c1596cc27",
   "lastOpenFiles": [
+    "060_Fragment/クラウスと副官.md",
+    "060_Fragment/第一層に差し入れ.md",
+    "060_Fragment/クラウスとトーマの出会い.md",
+    "060_Fragment/街中で「塔主」と呼べない問題01.md",
+    "010_System/位相共振.md",
+    "010_System/広域条件再配置.md",
+    "060_Fragment/光る犬事件.md",
     "060_Fragment/Scene_位相神06.md",
     "060_Fragment/Scene_位相神06：トーマとクラウス.md",
     "060_Fragment/トーマは雑.md",
@@ -332,18 +239,11 @@
     "030_Protocol/村調査派遣.md",
     "060_Fragment/神国訪問.md",
     "060_Fragment/神国の聖女が初来訪.md",
-    "060_Fragment/光る犬事件.md",
     "060_Fragment/位相脈測量遠征.md",
     "060_Fragment/Scene_位相神：夏の外套.md",
-    "060_Fragment/街中で「塔主」と呼べない問題01.md",
     "060_Fragment/Scene_冬夕方の第一層.md",
     "020_World/塔の遺物.md",
     "060_Fragment/街中で「塔主」と呼べない問題02.md",
-    "060_Fragment/外套問題：裾.md",
-    "060_Fragment/外套問題：夏.md",
-    "060_Fragment/ミロ入塔.md",
-    "060_Fragment/シルヴァンとトーマの出会い.md",
-    "060_Fragment/クラウスと副官.md",
     "030_Protocol",
     "050_Timeline",
     "010_System/無題のファイル.canvas",
