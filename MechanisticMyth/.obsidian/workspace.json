@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040_Character/クラウス.md",
+                "file": "040_Character/シルヴァン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "クラウス"
+              "title": "シルヴァン"
             }
           },
           {
@@ -218,6 +218,13 @@
   },
   "active": "353fdd3c1596cc27",
   "lastOpenFiles": [
+    "040_Character/トーマ.md",
+    "040_Character/クラウス.md",
+    "040_Character/クァンツェ.md",
+    "040_Character/シルヴァン.md",
+    "040_Character/ディオリ.md",
+    "040_Character/サフ.md",
+    "040_Character/エーヴァルト.md",
     "060_Fragment/クラウスと副官.md",
     "060_Fragment/第一層に差し入れ.md",
     "060_Fragment/クラウスとトーマの出会い.md",
@@ -237,13 +244,6 @@
     "060_Fragment/霧固定化事件.md",
     "060_Fragment/塔の遺物を受け取る.md",
     "030_Protocol/村調査派遣.md",
-    "060_Fragment/神国訪問.md",
-    "060_Fragment/神国の聖女が初来訪.md",
-    "060_Fragment/位相脈測量遠征.md",
-    "060_Fragment/Scene_位相神：夏の外套.md",
-    "060_Fragment/Scene_冬夕方の第一層.md",
-    "020_World/塔の遺物.md",
-    "060_Fragment/街中で「塔主」と呼べない問題02.md",
     "030_Protocol",
     "050_Timeline",
     "010_System/無題のファイル.canvas",
