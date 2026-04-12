@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "020_World/塔の遺物.md",
+                "file": "020_World/魔塔（位相観測機関）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "塔の遺物"
+              "title": "魔塔（位相観測機関）"
             }
           },
           {
@@ -218,6 +218,7 @@
   },
   "active": "353fdd3c1596cc27",
   "lastOpenFiles": [
+    "020_World/塔の遺物.md",
     "020_World/転移.md",
     "020_World/第二層.md",
     "020_World/第一層.md",
@@ -243,7 +244,6 @@
     "040_Character/猫.md",
     "040_Character/対外管理官.md",
     "040_Character/前塔主.md",
-    "040_Character/軍務連絡官.md",
     "030_Protocol",
     "050_Timeline",
     "010_System/無題のファイル.canvas",
