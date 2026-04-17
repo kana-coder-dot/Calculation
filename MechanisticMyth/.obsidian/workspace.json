@@ -36,7 +36,8 @@
               "title": "光る犬事件"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "241aa9357209dbc5",
@@ -216,8 +217,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "353fdd3c1596cc27",
+  "active": "0a14f0eed6628419",
   "lastOpenFiles": [
+    "020_World/結界核.md",
     "030_Protocol/結界優先度再宣言.md",
     "050_Timeline/シナリオフロー.md",
     "050_Timeline/位相神時系列.md",
@@ -243,7 +245,6 @@
     "020_World/草原.md",
     "020_World/信号具.md",
     "020_World/術者居住区.md",
-    "020_World/術者.md",
     "030_Protocol",
     "050_Timeline",
     "010_System/無題のファイル.canvas",
