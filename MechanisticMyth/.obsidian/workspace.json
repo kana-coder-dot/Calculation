@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040_Character/クラウス.md",
+                "file": "030_Protocol/塔の財政構造.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "クラウス"
+              "title": "塔の財政構造"
             }
           },
           {
@@ -218,6 +218,19 @@
   },
   "active": "353fdd3c1596cc27",
   "lastOpenFiles": [
+    "020_World/魔塔（位相観測機関）.md",
+    "030_Protocol/塔の財政構造.md",
+    "010_System/位相共振.md",
+    "020_World/魔具（術式固定体）.md",
+    "020_World/位相応答生体.md",
+    "020_World/結界核管理棟.md",
+    "010_System/境界感覚.md",
+    "020_World/観測盤.md",
+    "020_World/術者.md",
+    "010_System/魔物.md",
+    "010_System/暴走.md",
+    "010_System/生体.md",
+    "040_Character/クラウス.md",
     "020_World/結界核.md",
     "040_Character/ユーレル.md",
     "040_Character/王.md",
@@ -231,19 +244,6 @@
     "040_Character/ディオリ.md",
     "040_Character/セレン.md",
     "040_Character/ミリアム.md",
-    "040_Character/ミロ.md",
-    "040_Character/シルヴァン.md",
-    "040_Character/クラウス.md",
-    "040_Character/トーマ.md",
-    "040_Character/イリュストリヤ.md",
-    "040_Character/アレクセイ.md",
-    "040_Character/軍務連絡官.md",
-    "040_Character/前塔主.md",
-    "040_Character/文官.md",
-    "040_Character/クァンツェ.md",
-    "040_Character/対外管理官.md",
-    "020_World/巡回部隊.md",
-    "020_World/魔具部隊.md",
     "030_Protocol",
     "050_Timeline",
     "010_System/無題のファイル.canvas",
