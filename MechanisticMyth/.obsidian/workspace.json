@@ -70,12 +70,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "060_Fragment/クラウスと副官.md",
+                "file": "060_Fragment/主任の元カノ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "クラウスと副官"
+              "title": "主任の元カノ"
             }
           }
         ],
@@ -261,6 +261,8 @@
   },
   "active": "73d6ad08579136cf",
   "lastOpenFiles": [
+    "060_Fragment/シルヴァンとトーマの出会い.md",
+    "060_Fragment/クラウスと副官.md",
     "040_Character/シルヴァン.md",
     "040_Character/ロベルタ.md",
     "040_Character/ユレク.md",
@@ -285,8 +287,6 @@
     "040_Character/イリュストリヤ.md",
     "040_Character/アレクセイ.md",
     "030_Protocol/首都内特例運用文書.md",
-    "040_Character/カルラ.md",
-    "040_Character/オルティア.md",
     "030_Protocol",
     "050_Timeline",
     "010_System/無題のファイル.canvas",
