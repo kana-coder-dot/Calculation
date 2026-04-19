@@ -98,12 +98,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "国家と魔塔の関係.md",
+                "file": "040_Character/王.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "国家と魔塔の関係"
+              "title": "王"
             }
           }
         ],
@@ -293,10 +293,10 @@
   },
   "active": "73d6ad08579136cf",
   "lastOpenFiles": [
-    "020_World/プロメソア王国.md",
     "国家と魔塔の関係.md",
-    "020_World/首都コンストレット.md",
     "020_World/魔塔（位相観測機関）.md",
+    "020_World/プロメソア王国.md",
+    "020_World/首都コンストレット.md",
     "040_Character/クラウス.md",
     "無題のファイル.md",
     "首都内特例運用.md",
