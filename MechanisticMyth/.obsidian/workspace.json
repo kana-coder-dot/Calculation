@@ -98,12 +98,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "020_World/第二層.md",
+                "file": "040_Character/ローデン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第二層"
+              "title": "ローデン"
             }
           }
         ],
@@ -120,12 +120,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "020_World/首都コンストレット.md",
+                "file": "020_World/魔具部隊.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "首都コンストレット"
+              "title": "魔具部隊"
             }
           }
         ]
@@ -293,6 +293,21 @@
   },
   "active": "73d6ad08579136cf",
   "lastOpenFiles": [
+    "040_Character/ディオル.md",
+    "040_Character/ソイリ.md",
+    "040_Character/ジェイン.md",
+    "040_Character/ローデン.md",
+    "040_Character/イリュストリヤ.md",
+    "040_Character/エーヴァルト.md",
+    "020_World/魔具部隊.md",
+    "020_World/首都コンストレット.md",
+    "040_Character/ユレク.md",
+    "首都内特例運用施策.md",
+    "首都内特例運用.md",
+    "030_Protocol/位相脈測量遠征.md",
+    "030_Protocol/位相観測粒度.md",
+    "020_World/位相脈観測室.md",
+    "020_World/第二層.md",
     "040_Character/文官.md",
     "040_Character/王.md",
     "030_Protocol/霧固定化事件.md",
@@ -301,24 +316,9 @@
     "060_Fragment/境界帯人型現象初接触.md",
     "060_Fragment/位相脈測量遠征.md",
     "050_Timeline/位相神時系列.md",
-    "040_Character/ユレク.md",
     "050_Timeline/シナリオフロー.md",
     "060_Fragment/Scene_位相神06：トーマとクラウス.md",
     "060_Fragment/Scene_位相神04.md",
-    "060_Fragment/Scene_位相神02.md",
-    "040_Character/ディオル.md",
-    "040_Character/ソイリ.md",
-    "040_Character/フリスト.md",
-    "国家と魔塔の関係.md",
-    "020_World/魔塔（位相観測機関）.md",
-    "020_World/プロメソア王国.md",
-    "020_World/首都コンストレット.md",
-    "040_Character/クラウス.md",
-    "無題のファイル.md",
-    "首都内特例運用.md",
-    "030_Protocol/王宮儀礼.md",
-    "040_Character/ニール.md",
-    "040_Character/クァンツェ.md",
     "030_Protocol",
     "050_Timeline",
     "010_System/無題のファイル.canvas",
