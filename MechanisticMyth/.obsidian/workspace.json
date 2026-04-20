@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040_Character/クラウス.md",
+                "file": "040_Character/イリュストリヤ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "クラウス"
+              "title": "イリュストリヤ"
             }
           }
         ],
@@ -233,8 +233,11 @@
   },
   "active": "73d6ad08579136cf",
   "lastOpenFiles": [
-    "050_Timeline/シナリオフロー.md",
+    "040_Character/ニール.md",
+    "040_Character/トーマ.md",
     "040_Character/クラウス.md",
+    "040_Character/シルヴァン.md",
+    "050_Timeline/シナリオフロー.md",
     "030_Protocol/非到達領域マップ.md",
     "020_World/プロメソア王国.md",
     "030_Protocol/首都内特例運用文書.md",
@@ -243,7 +246,6 @@
     "060_Fragment/主任の元カノ.md",
     "060_Fragment/シルヴァンとトーマの出会い.md",
     "060_Fragment/クラウスと副官.md",
-    "040_Character/シルヴァン.md",
     "040_Character/ロベルタ.md",
     "040_Character/ユレク.md",
     "040_Character/ディオル.md",
@@ -257,8 +259,6 @@
     "040_Character/王.md",
     "040_Character/前塔主.md",
     "040_Character/文官.md",
-    "040_Character/ジェイン.md",
-    "040_Character/ヴェリン.md",
     "030_Protocol",
     "050_Timeline",
     "010_System/無題のファイル.canvas",
