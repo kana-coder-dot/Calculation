@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "040_Character/クラウス.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "クラウス"
             }
           }
         ],
@@ -245,13 +245,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f111c9ba610a8702",
+  "active": "38fe647957e9f050",
   "lastOpenFiles": [
-    "040_Character/イリュストリヤ.md",
-    "conflict-files-obsidian-git.md",
     "040_Character/ニール.md",
     "040_Character/トーマ.md",
     "040_Character/クラウス.md",
+    "境界帯でしか起こらないこと.md",
+    "conflict-files-obsidian-git.md",
+    "040_Character/イリュストリヤ.md",
     "040_Character/シルヴァン.md",
     "050_Timeline/シナリオフロー.md",
     "030_Protocol/非到達領域マップ.md",
@@ -272,7 +273,6 @@
     "040_Character/フリスト.md",
     "040_Character/ミロ.md",
     "040_Character/ローデン.md",
-    "040_Character/王.md",
     "030_Protocol",
     "050_Timeline",
     "010_System/無題のファイル.canvas",
