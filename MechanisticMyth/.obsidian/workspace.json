@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "060_Fragment/Scene_位相神：夕立のあと.md",
+                "file": "060_Fragment/Scene_位相神：新しい語彙00建前.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scene_位相神：夕立のあと"
+              "title": "Scene_位相神：新しい語彙00建前"
             }
           }
         ],
@@ -245,10 +245,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e30ed8746fb43042",
+  "active": "f111c9ba610a8702",
   "lastOpenFiles": [
-    "060_Fragment/Scene_位相神：夕立のあと.md",
+    "060_Fragment/Scene_位相神：神.md",
+    "060_Fragment/Scene_位相神：青色.md",
     "060_Fragment/Scene_位相神：幽霊.md",
+    "060_Fragment/Scene_位相神：夕立のあと.md",
     "060_Fragment/Scene_位相神03.md",
     "030_Protocol/非到達領域マップ.md",
     "030_Protocol/塔の財政構造.md",
@@ -271,8 +273,6 @@
     "030_Protocol/位相脈測量遠征.md",
     "030_Protocol/位相脈の呼吸可視化.md",
     "030_Protocol/位相観測粒度.md",
-    "030_Protocol/イノシシ観測.md",
-    "040_Character/シルヴァン.md",
     "030_Protocol",
     "050_Timeline",
     "010_System/無題のファイル.canvas",
