@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "060_Fragment/Scene_位相神03.md",
+                "file": "040_Character/シルヴァン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scene_位相神03"
+              "title": "シルヴァン"
             }
           },
           {
@@ -262,6 +262,7 @@
   },
   "active": "73d6ad08579136cf",
   "lastOpenFiles": [
+    "060_Fragment/Scene_位相神03.md",
     "060_Fragment/Scene_位相神99.md",
     "060_Fragment/Scene_位相神：新しい語彙02-1遠慮.md",
     "030_Protocol/位相神下層再成立.md",
@@ -271,7 +272,6 @@
     "060_Fragment/Scene_位相神：夏の外套.md",
     "060_Fragment/Scene_位相神：夕立のあと.md",
     "060_Fragment/Scene_位相神：心配.md",
-    "060_Fragment/Scene_位相神03.md",
     "030_Protocol/塔の財政構造.md",
     "030_Protocol/施設運用.md",
     "030_Protocol/暴走個体対応段階表（軍）.md",
