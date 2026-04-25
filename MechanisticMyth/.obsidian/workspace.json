@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040_Character/L4塔主.md",
+                "file": "030_Protocol/外縁研究.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L4塔主"
+              "title": "外縁研究"
             }
           }
         ],
@@ -88,12 +88,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "030_Protocol/村調査派遣.md",
+                "file": "020_World/結界核管理棟.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "村調査派遣"
+              "title": "結界核管理棟"
             }
           }
         ],
@@ -260,34 +260,34 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "9ac52e7203e0dbe9",
+  "active": "8953b8fc05f2397b",
   "lastOpenFiles": [
-    "020_World/塔の遺物.md",
-    "040_Character/L4塔主.md",
-    "030_Protocol/村調査派遣.md",
-    "030_Protocol/光る犬事件.md",
-    "030_Protocol/外縁研究.md",
-    "040_Character/前塔主.md",
-    "050_Timeline/シナリオフロー.md",
-    "040_Character/クァンツェ.md",
-    "020_World/旧観測塔.md",
-    "030_Protocol/封印区画.md",
-    "020_World/魔塔（位相観測機関）.md",
-    "020_World/第二層.md",
-    "040_Character/ローデン.md",
-    "020_World/魔具部隊.md",
-    "020_World/第三層.md",
-    "060_Fragment/街中で「塔主」と呼べない問題02.md",
-    "030_Protocol/人間化制約.md",
-    "060_Fragment/街中で「塔主」と呼べない問題01.md",
-    "040_Character/シルヴァン.md",
-    "060_Fragment/Scene_位相神03.md",
-    "060_Fragment/Scene_位相神99.md",
-    "060_Fragment/Scene_位相神：新しい語彙02-1遠慮.md",
     "030_Protocol/位相神下層再成立.md",
-    "030_Protocol/首都内特例運用文書.md",
-    "060_Fragment/Scene_位相神：夏の外套.md",
-    "060_Fragment/Scene_位相神：夕立のあと.md",
+    "030_Protocol/位相観測粒度.md",
+    "030_Protocol/イノシシ観測.md",
+    "050_Timeline/シナリオフロー.md",
+    "030_Protocol/鉱脈洞窟発見.md",
+    "030_Protocol/外縁研究.md",
+    "060_Fragment/鉱脈洞窟発見.md",
+    "030_Protocol/位相脈の呼吸可視化.md",
+    "030_Protocol/位相脈測量遠征.md",
+    "030_Protocol/王宮儀礼.md",
+    "030_Protocol/外縁接続.md",
+    "030_Protocol/境界帯人型現象.md",
+    "030_Protocol/強シル概念.md",
+    "030_Protocol/均衡維持計画の策定.md",
+    "030_Protocol/結界優先度再宣言.md",
+    "030_Protocol/後期軍合同訓練.md",
+    "030_Protocol/光る犬事件.md",
+    "030_Protocol/国家と魔塔の関係.md",
+    "030_Protocol/国境防衛戦.md",
+    "030_Protocol/前塔主回想.md",
+    "030_Protocol/村調査派遣.md",
+    "030_Protocol/霧固定化事件.md",
+    "030_Protocol/北の山イノシシ事件.md",
+    "030_Protocol/封印区画.md",
+    "040_Character/L4塔主.md",
+    "020_World/塔の遺物.md",
     "030_Protocol",
     "050_Timeline",
     "010_System/無題のファイル.canvas",
