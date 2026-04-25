@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040_Character/シルヴァン.md",
+                "file": "060_Fragment/街中で「塔主」と呼べない問題02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "シルヴァン"
+              "title": "街中で「塔主」と呼べない問題02"
             }
           },
           {
@@ -262,6 +262,8 @@
   },
   "active": "73d6ad08579136cf",
   "lastOpenFiles": [
+    "060_Fragment/街中で「塔主」と呼べない問題01.md",
+    "040_Character/シルヴァン.md",
     "060_Fragment/Scene_位相神03.md",
     "060_Fragment/Scene_位相神99.md",
     "060_Fragment/Scene_位相神：新しい語彙02-1遠慮.md",
@@ -286,8 +288,6 @@
     "030_Protocol/強シル概念.md",
     "040_Character/トーマ.md",
     "040_Character/クラウス.md",
-    "040_Character/シルヴァン.md",
-    "050_Timeline/シナリオフロー.md",
     "030_Protocol",
     "050_Timeline",
     "010_System/無題のファイル.canvas",
