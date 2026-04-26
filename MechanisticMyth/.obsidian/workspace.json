@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "030_Protocol/眠る樽事件.md",
+                "file": "060_Fragment/年末の雪.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "眠る樽事件"
+              "title": "年末の雪"
             }
           }
         ],
@@ -88,12 +88,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "030_Protocol/光る犬事件.md",
+                "file": "050_Timeline/シナリオフロー.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "光る犬事件"
+              "title": "シナリオフロー"
             }
           }
         ],
@@ -262,16 +262,19 @@
   },
   "active": "9ac52e7203e0dbe9",
   "lastOpenFiles": [
-    "030_Protocol/冷える炉事件.md",
-    "030_Protocol/光る犬事件.md",
-    "030_Protocol/眠る樽事件.md",
-    "030_Protocol/非逐次言語.md",
-    "030_Protocol/境界帯でしか起こらないこと.md",
-    "020_World/封印区画.md",
-    "030_Protocol/後期軍合同訓練.md",
+    "大掃除.md",
+    "060_Fragment/年末の雪.md",
+    "050_Timeline/シナリオフロー.md",
     "030_Protocol/前期軍合同訓練.md",
-    "030_Protocol/人間化制約.md",
+    "030_Protocol/眠る樽事件.md",
+    "030_Protocol/光る犬事件.md",
     "030_Protocol/国境防衛戦.md",
+    "030_Protocol/人間化制約.md",
+    "030_Protocol/後期軍合同訓練.md",
+    "020_World/封印区画.md",
+    "030_Protocol/非逐次言語.md",
+    "030_Protocol/冷える炉事件.md",
+    "030_Protocol/境界帯でしか起こらないこと.md",
     "030_Protocol/外縁研究.md",
     "030_Protocol/結界優先度再宣言.md",
     "030_Protocol/鉱脈洞窟発見.md",
@@ -285,9 +288,6 @@
     "030_Protocol/位相脈測量遠征.md",
     "030_Protocol/位相脈の呼吸可視化.md",
     "030_Protocol/位相神下層再成立.md",
-    "030_Protocol/位相共振の危険判断軸.md",
-    "030_Protocol/位相観測粒度.md",
-    "030_Protocol/イノシシ観測.md",
     "030_Protocol",
     "050_Timeline",
     "010_System/無題のファイル.canvas",
