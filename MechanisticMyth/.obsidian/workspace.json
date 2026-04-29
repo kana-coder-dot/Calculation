@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "050_Timeline/塔スケジュール（年間）.md",
+                "file": "040_Character/シルヴァン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "塔スケジュール（年間）"
+              "title": "シルヴァン"
             }
           }
         ],
@@ -247,6 +247,9 @@
   },
   "active": "9ac52e7203e0dbe9",
   "lastOpenFiles": [
+    "030_Protocol/霧固定化事件.md",
+    "040_Character/シルヴァン.md",
+    "050_Timeline/塔スケジュール（年間）.md",
     "030_Protocol/境界帯でしか起こらないこと.md",
     "050_Timeline/シナリオフロー.md",
     "040_Character/前塔主.md",
@@ -270,9 +273,6 @@
     "030_Protocol/外縁研究.md",
     "060_Fragment/光る犬事件.md",
     "030_Protocol/結界核管理棟の常駐構成.md",
-    "030_Protocol/均衡維持計画の策定.md",
-    "030_Protocol/強シル概念.md",
-    "030_Protocol/境界帯人型現象.md",
     "030_Protocol",
     "050_Timeline",
     "010_System/無題のファイル.canvas",
