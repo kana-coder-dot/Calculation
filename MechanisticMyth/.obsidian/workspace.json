@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "060_Fragment/クラウスとトーマの出会い.md",
+                "file": "020_World/プロメソア王国.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "クラウスとトーマの出会い"
+              "title": "プロメソア王国"
             }
           }
         ],
@@ -247,8 +247,8 @@
   },
   "active": "9ac52e7203e0dbe9",
   "lastOpenFiles": [
-    "040_Character/クラウス.md",
     "060_Fragment/クラウスとトーマの出会い.md",
+    "040_Character/クラウス.md",
     "060_Fragment/Scene_位相神05.md",
     "060_Fragment/Scene_位相神04.md",
     "060_Fragment/Scene_位相神03.md",
