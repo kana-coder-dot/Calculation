@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "060_Fragment/日常（第一層）02.md",
+                "file": "060_Fragment/トーマは雑.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "日常（第一層）02"
+              "title": "トーマは雑"
             }
           },
           {
@@ -276,6 +276,9 @@
   },
   "active": "73d6ad08579136cf",
   "lastOpenFiles": [
+    "060_Fragment/年末の雪.md",
+    "060_Fragment/日常（第一層）04.md",
+    "060_Fragment/日常（第一層）02.md",
     "060_Fragment/日常（第一層）03.md",
     "060_Fragment/日常（第一層）01.md",
     "060_Fragment/トーマは雑.md",
@@ -299,9 +302,6 @@
     "030_Protocol/位相脈測量遠征.md",
     "030_Protocol/位相脈の呼吸可視化.md",
     "030_Protocol/位相神下層再成立.md",
-    "030_Protocol/位相共振の危険判断軸.md",
-    "030_Protocol/位相観測粒度.md",
-    "030_Protocol/イノシシ観測.md",
     "030_Protocol",
     "050_Timeline",
     "010_System/無題のファイル.canvas",
