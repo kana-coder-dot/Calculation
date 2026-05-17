@@ -111,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -274,8 +274,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "73d6ad08579136cf",
+  "active": "daa5f17b982822f4",
   "lastOpenFiles": [
+    "030_Protocol/L4戦争.md",
     "030_Protocol/外縁接続.md",
     "030_Protocol/外縁研究.md",
     "030_Protocol/王宮儀礼.md",
@@ -285,7 +286,6 @@
     "030_Protocol/位相共振の危険判断軸.md",
     "030_Protocol/位相観測粒度.md",
     "030_Protocol/イノシシ観測.md",
-    "030_Protocol/L4戦争.md",
     "040_Character/エーヴァルト.md",
     "040_Character/セス.md",
     "030_Protocol/非到達領域マップ.md",
