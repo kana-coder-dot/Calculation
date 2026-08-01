@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040_Character/リョウ.md",
+                "file": "040_Character/サフ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "リョウ"
+              "title": "サフ"
             }
           }
         ],
@@ -278,13 +278,15 @@
   },
   "active": "9ac52e7203e0dbe9",
   "lastOpenFiles": [
+    "040_Character/リョウ.md",
+    "040_Character/サフ.md",
+    "040_Character/クラウス.md",
+    "040_Character/カルラ.md",
     "030_Protocol/外縁研究.md",
     "040_Character/ルキウス.md",
     "040_Character/ヴァレリア.md",
     "040_Character/ユレク.md",
     "050_Timeline/シナリオフロー.md",
-    "040_Character/クラウス.md",
-    "040_Character/リョウ.md",
     "040_Character/前塔主.md",
     "040_Character/王.md",
     "050_Timeline/通年イベント視点別整理.md",
@@ -302,8 +304,6 @@
     "060_Fragment/Scene_位相神：個別辞書.md",
     "060_Fragment/Scene_位相神：夏の外套.md",
     "060_Fragment/トーマは雑.md",
-    "060_Fragment/年末の雪.md",
-    "060_Fragment/日常（第一層）04.md",
     "030_Protocol",
     "050_Timeline",
     "010_System/無題のファイル.canvas",
