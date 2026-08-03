@@ -145,9 +145,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "ファイルエクスプローラ"
@@ -290,10 +288,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7736d7f731c9d9d7",
+  "active": "91efb3857453623a",
   "lastOpenFiles": [
-    "050_Timeline/無題のファイル 1.md",
     "050_Timeline/リョウシナリオフロー.md",
+    "050_Timeline/無題のファイル 1.md",
     "050_Timeline/シルヴァンシナリオフロー.md",
     "060_Fragment/サフの店の棚替え.md",
     "050_Timeline/王宮祭事スケジュール（年間）.md",
